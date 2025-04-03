@@ -1,5 +1,5 @@
-import CryptoJS from "crypto-js";
 import bigInt from "big-integer";
+import CryptoJS from "crypto-js";
 
 export class MusicCrypto {
   // AES加密相关常量
